@@ -1,2 +1,2 @@
-# Illinois_2025
-Exploration among drug, genome and side effects
+# AI_Health
+mainly GNN/prediction model/relationship of drug-gene-adr
